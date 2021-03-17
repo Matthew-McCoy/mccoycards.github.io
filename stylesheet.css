@@ -133,3 +133,7 @@ p {
     line-height: 1.5;
 }
 
+.about-title, .about-content {
+    text-align: center;
+}
+
